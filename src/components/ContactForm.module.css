@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 8px 240px 8px 8px;
+}
+
+.form__name {
+  margin-bottom: 8px;
+}
+
+.form__inputName {
+  margin-bottom: 32px;
+}
+
+.form__number {
+  margin-bottom: 8px;
+}
+
+.form__inputNumber {
+  margin-bottom: 32px;
+}
